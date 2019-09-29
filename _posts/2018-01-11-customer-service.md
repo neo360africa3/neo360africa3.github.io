@@ -1,11 +1,17 @@
 ---
+title: Inception Movie
+date: 2018-01-11 00:00:00 Z
+categories:
+- Jekyll
+- tutorial
+tags:
+- red
+- yellow
 layout: post
-title:  "Inception Movie"
 author: bola
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: My review of Inception movie. Acting, plot and something else in this
+  short description.
 featured: true
 hidden: true
 rating: 4.5

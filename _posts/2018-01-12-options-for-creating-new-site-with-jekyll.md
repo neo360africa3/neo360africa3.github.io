@@ -1,8 +1,11 @@
 ---
+title: Options for creating a new site with Jekyll
+date: 2018-01-12 00:00:00 Z
+categories:
+- Jekyll
+- tutorial
 layout: post
-title:  "Options for creating a new site with Jekyll"
 author: bola
-categories: [ Jekyll, tutorial ]
 image: assets/images/13.jpg
 ---
 
