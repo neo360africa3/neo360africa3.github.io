@@ -1,0 +1,38 @@
+{% if paginator.total_pages > 1 %}
+<div class="row justify-content-center mt-4">
+          <div class="col-auto">
+            <nav>
+              <ul class="pagination">
+                {% if paginator.previous_page %}
+                <li class="page-item">
+                  <a class="page-link rounded" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Previous">
+                    <img src="{{ site.baseurl }}/assets/assets/img/icons/interface/icon-arrow-left.svg" alt="Arrow Left" class="icon icon-xs bg-primary" data-inject-svg>
+                  </a>
+                </li>
+                {% else %}
+                <li class="page-item active"><a class="page-link" >1</a></li>
+                  {% endif %}
+
+                   {% for page in (1..paginator.total_pages) %}
+                    {% if page == paginator.page %}
+                
+                 {% elsif page == 1 %}
+                <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+                {% else %}
+                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                 {% endif %}
+                 {% endfor %}
+
+                 {% if paginator.next_page %}
+                <li class="page-item">
+                  <a class="page-link rounded" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Next">
+                    <img src="{{ site.baseurl }}/assets/assets/img/icons/interface/icon-arrow-right.svg" alt="Arrow Right" class="icon icon-xs bg-primary" data-inject-svg>
+                  </a>
+                </li>
+                {% else %}
+                 {% endif %}
+              </ul>
+            </nav>
+          </div>
+        </div>
+        {% endif %}

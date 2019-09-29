@@ -1,0 +1,88 @@
+---
+layout: blog
+disqus: false
+archive: false
+post_class: post-template
+---
+
+<!-- Begin Article
+================================================== -->
+{% assign author = site.authors[page.author] %}
+<section class="p-0 border-top border-bottom bg-light row no-gutters">
+      <div class="col-lg-5 col-xl-6 order-lg-2">
+        <div class="divider divider-side transform-flip-y bg-light d-none d-lg-block"></div>
+         {% if page.image %}
+       
+
+          {% if site.lazyimages == "enabled" %}
+           <img class="flex-fill" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+           
+            {% else %}
+             <img class="flex-fill" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+           
+            {% endif %}
+
+            {% endif %}
+      </div>
+      <div class="col-lg-7 col-xl-6">
+        <div class="container min-vh-lg-70 d-flex align-items-center">
+          <div class="row justify-content-center">
+            <div class="col col-md-10 col-xl-9 py-4 py-sm-5">
+              <div class="my-4 my-md-5">
+                <div class="d-flex align-items-center mb-3 mb-xl-4">
+                     {% assign sortedCategories = page.categories | sort %}
+                     {% for category in sortedCategories %}
+                  <a  class="badge badge-pill badge-danger">{{ category }}</a>
+                      {% endfor %}
+                  <div class="ml-3 text-small text-muted">{{ page.date | date_to_string }}</div>
+                  {% if page.last_modified_at %}
+                  <div class="ml-3 text-small text-muted">Updated at -{{ page.last_modified_at | date: "%b %-d, %Y" }}</div>
+                  {% endif %}
+                </div>
+                <h1 class="display-4">
+             {{ page.title }}
+            </h1>
+                <a href="#" class="d-flex align-items-center">
+                     {% if page.author %}
+                        {% if author.avatar %}
+                  <img src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}" class="avatar avatar-sm">
+                         {% endif %}
+
+                  <div class="h6 mb-0 ml-3">{{ author.display_name }}</div>
+                    {% endif %}
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-xl-7 col-lg-8 col-md-10">
+            <article class="article">
+               {{content}}
+            </article>
+          
+            <div class="my-4 my-sm-5 card card-body flex-sm-row justify-content-between align-items-center">
+              <div class="h5 mb-sm-0">Share this article:</div>
+              <div class="d-flex">
+                <a target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ page.url | absolute_url }}" class="btn btn-sm btn-primary rounded-circle mx-1">
+                  <img src="{{ site.baseurl }}/assets/assets/img/icons/social/twitter.svg" alt="Twitter" class="icon icons-m bg-white" data-inject-svg>
+                </a>
+                <a  target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}"  class="btn btn-sm btn-primary rounded-circle mx-1">
+                  <img src="{{ site.baseurl }}/assets/assets/img/icons/social/facebook.svg" alt="Facebook" class="icon icons-m bg-white" data-inject-svg>
+                </a>
+                <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" class="btn btn-sm btn-primary rounded-circle mx-1">
+                  <img src="{{ site.baseurl }}/assets/assets/img/icons/social/linkedin.svg" alt="Linked In" class="icon icons-m bg-white" data-inject-svg>
+                </a>
+              </div>
+            </div>
+           
+            
+            
+          </div>
+        </div>
+      </div>
+    </section>
