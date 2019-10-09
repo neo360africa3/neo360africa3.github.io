@@ -56,6 +56,15 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "."
+  tolu:
+    name: tolu
+    display_name: Toluwani Babatunde
+    avatar: assets/images/tolu.jpg
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: 
+    web: 
+    twitter: https://twitter.com/neo360A
+    description: "."
 plugins:
 - jekyll-paginate
 - jekyll-sitemap

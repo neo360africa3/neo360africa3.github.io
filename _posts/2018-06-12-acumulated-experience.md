@@ -5,7 +5,7 @@ categories:
 - Jekyll
 - tutorial
 layout: post
-author: bola
+author: tolu
 image: assets/images/15.jpg
 ---
 
