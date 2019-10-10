@@ -29,7 +29,7 @@ In order to understand the problem, one should keep quiet, listen and reflect on
 
 Whether you agree with the customer or not, an apology should be given. This shows that you care and are interested in the customer’s opinions. After rendering the apology, engage them in conversation to know what can be done to serve them better. However, do not over apologise and feel too guilty, some people may take that for granted and try to belittle you.
 
-**DO not let your emotions kick in**
+**Do not let your emotions kick in**
 
 <img src="https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_300,w_450/v1570705467/NEO360%20BLOG/black-woman-with-depressed-emotion-SBYFNKQ_-_Copy_jobtqi.jpg"/>
 
