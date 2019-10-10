@@ -24,26 +24,24 @@ Being an entrepreneur could be quite overwhelming. You try, you fail, you run, y
 <blockquote class="blockquote">
 “Business opportunities are like buses: there’s always another one coming.”
 </blockquote>
-<p>
 
-* “The secret of getting ahead is getting started. The secret of getting started is breaking your complex overwhelming tasks into smaller manageable tasks, and then starting on the first one.” *-Mark Twain, American Humorist and Author* <br/>
+* “The secret of getting ahead is getting started. The secret of getting started is breaking your complex overwhelming tasks into smaller manageable tasks, and then starting on the first one.” *-Mark Twain, American Humorist and Author* 
 
-* “When you find an idea that you just can’t stop thinking about, that’s probably a good one to pursue.” *-Josh James, Omniture CEO and Co-Founder* <br/>
+* “When you find an idea that you just can’t stop thinking about, that’s probably a good one to pursue.” *-Josh James, Omniture CEO and Co-Founder* 
 
-* “Waiting for perfect is never as smart as making progress.” *-Seth Godin, Author* <br/>
+* “Waiting for perfect is never as smart as making progress.” *-Seth Godin, Author*
 
-* “You must be very patient, very persistent. The world isn’t going to shower gold coins on you just because you have a good idea. You’re going to have to work like crazy to bring that idea to the attention of people. They’re not going to buy it unless they know about it.” *-Herb Kelleher, Founder of Southwest Airlines* <br/>
+* “You must be very patient, very persistent. The world isn’t going to shower gold coins on you just because you have a good idea. You’re going to have to work like crazy to bring that idea to the attention of people. They’re not going to buy it unless they know about it.” *-Herb Kelleher, Founder of Southwest Airlines*
 
-* “The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.” *-Vince Lombardi, Executive, Head coach, Player NFL* <br/>
+* “The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.” *-Vince Lombardi, Executive, Head coach, Player NFL* 
 
 <blockquote class="blockquote">
 “Don’t worry about being successful, but work towards being significant and the success will naturally follow.”
 </blockquote>
-<p>
 
-* “Chase the vision, not the money; the money will end up following you.” *-Tony Hsieh, Zappos CEO* <br/>
+* “Chase the vision, not the money; the money will end up following you.” *-Tony Hsieh, Zappos CEO* 
 
-* “It’s not about money or connections. It’s the willingness to outwork and outlearn everyone when it comes to your business. And if it fails, you learn from what happened and do a better job next time.” *-Mark Cuban, Entrepreneur* <br/>
+* “It’s not about money or connections. It’s the willingness to outwork and outlearn everyone when it comes to your business. And if it fails, you learn from what happened and do a better job next time.” *-Mark Cuban, Entrepreneur* 
 
 * “Great ideas often receive violent opposition from mediocre minds.” *-Albert Einstein* <br/>
 
