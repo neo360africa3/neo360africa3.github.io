@@ -35,9 +35,7 @@ Being an entrepreneur could be quite overwhelming. You try, you fail, you run, y
 
 * “The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.” *-Vince Lombardi, Executive, Head coach, Player NFL* 
 
-<blockquote class="blockquote">
-“Don’t worry about being successful, but work towards being significant and the success will naturally follow.”
-</blockquote>
+
 
 * “Chase the vision, not the money; the money will end up following you.” *-Tony Hsieh, Zappos CEO* 
 
