@@ -30,7 +30,7 @@ If you cannot confidently beat your chest in response to these questions, then y
 
 ## **Cash Flow**
 
-<img width="100%" scr="https://res.cloudinary.com/neo360africa/image/upload/v1570716057/NEO360%20BLOG/Cash_Flow_xofkda.png"/>
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570716057/NEO360%20BLOG/Cash_Flow_xofkda.png"/>
 
 Cash flow is inherently different from generating sales revenues. If after deducting your production costs, variable costs and there is barely any reasonable profit commensurate to the effort, resources and time put into the production and sales cycle or the profit can barely even cover marketing.
 
