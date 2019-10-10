@@ -23,7 +23,7 @@ However, challenges faced by SMEs include lack of access to affordable finance, 
 “I started a laundry business in 2017 where I wash, iron and mend clothes for people. I want to grow bigger than this, but not many people are interested in what I’m doing. Some people think it’s just to wash and iron, but it’s more than that and takes a lot of skill. Because of the lack of interest, I’ve also lost employees. Some end up damaging the clothes, while others run away with them to sell. Another issue is power. They don’t provide us with enough electricity, so I have a backup generator. The cost of maintaining the generator and servicing it is not easy. I also have to buy fuel regularly. If all these costs were not there, I believe I would have gone far by now.” <br/>
 
 <div class="rounded jarallax min-vh-50 o-hidden" data-jarallax data-speed="0.2">
-<img class="jarallax-img" src="res.cloudinary.com/neo360africa/image/upload/v1570705382/NEO360%20BLOG/15-01_bvzenz.jpg" alt="Image">
+<img class="jarallax-img" src="https://res.cloudinary.com/neo360africa/image/upload/v1570705382/NEO360%20BLOG/15-01_bvzenz.jpg" alt="Image">
 </div>
 
 Without the necessary funds and facilities to grow, the economy will remain stagnant and entrepreneurs will lose their businesses.
