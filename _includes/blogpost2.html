@@ -1,0 +1,29 @@
+ {% assign author = site.authors[post.author] %}
+ <div class="mb-4 mb-md-5" data-aos="fade-up">
+              <div class="d-flex flex-column flex-lg-row no-gutters border rounded bg-white o-hidden">
+                <a href="{{ post.url | absolute_url }}" class="d-block position-relative bg-gradient col-xl-5">
+                  {% if post.image %}
+                  <img class="flex-fill hover-fade-out" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
+                  {% endif %}
+                  <div class="divider divider-side bg-white d-none d-lg-block"></div>
+                </a>
+                <div class="p-4 p-md-5 col-xl-7 d-flex align-items-center">
+                  <div class="p-lg-4 p-xl-5">
+                    <div class="d-flex justify-content-between align-items-center mb-3 mb-xl-4">
+                    
+                    
+                      
+                      <div class="text-small text-muted">{{ post.date | date_to_string }}</div>
+                    </div>
+                    <a href="{{ post.url | absolute_url }}">
+                      <h1>{{ post.title }}</h1>
+                    </a>
+                    <p class="lead">
+                     {{ post.excerpt | strip_html | truncatewords:30 }}
+                    </p>
+                    <a href="{{ post.url | absolute_url }}" class="lead">Read Story</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+           

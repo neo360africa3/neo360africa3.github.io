@@ -12,30 +12,34 @@ layout: blog
 
 <!-- Posts Index
 ================================================== -->
- <section class="bg-primary-3 text-white">
+
+<section class="bg-light">
       <div class="container">
         <div class="row section-title justify-content-center text-center">
           <div class="col-md-9 col-lg-8 col-xl-7">
-            <h1 class="display-3">Newsroom</h1>
-           <div class="lead">Your Number One Small & Medium Scale Enterprise (SMEs), Financial and Investment Blog </div>
+            <h1 class="display-3">Blog</h1>
+           <div class="lead">The latest updates, stories , ideas and guides from the NEO360 team </div>
           </div>
         </div>
-        <div class="row justify-content-center">
-           {% for post in paginator.posts %}
+        <div class="row">
+          <div class="col">
 
-               {% include blogpost.html %}          
+             {% for post in paginator.posts %}
+
+               {% include blogpost2.html %}          
 
         {% endfor %}
        
-          
-          
-         
-         
+           
+           
+            
+           
+           
+          </div>
         </div>
-
-          {% include pagination.html %}
-        
+        {% include pagination.html %}
       </div>
     </section>
+
     
 

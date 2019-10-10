@@ -10,13 +10,13 @@
                   </a>
                 </li>
                 {% else %}
-                <li class="page-item active"><a class="page-link" >1</a></li>
+                <li class="page-item active"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="page-link" >1</a></li>
                   {% endif %}
 
                    {% for page in (1..paginator.total_pages) %}
                     {% if page == paginator.page %}
                 
-                 {% elsif page == 1 %}
+                 {% elseif page == 1 %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
                 {% else %}
                 <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
