@@ -17,7 +17,7 @@ To be frank, expansion isn't just about more revenues. You want to think **susta
 
 ## **Structure, Systems and Processes**
 
-<img width="100%" scr="https://res.cloudinary.com/neo360africa/image/upload/v1570705418/NEO360%20BLOG/Building-Blocks_-_Copy_wyyrye.jpg"/>
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570705418/NEO360%20BLOG/Building-Blocks_-_Copy_wyyrye.jpg"/>
 
 Is your business rightly structured to manage the diversity that comes with growth? Do you have processes within your business to ensure quality across board and maintenance of your core values? Will your business shred apart when you go for a 3 months vacation? If you answered in the negative, then your business isn’t ready for growth. It doesn’t really matter how much you are making in revenue and profits if your business revolves around you. If you do not institute structure, processes and systems in your business, test them for a while before expanding, then you may cause problems for your business.
 
