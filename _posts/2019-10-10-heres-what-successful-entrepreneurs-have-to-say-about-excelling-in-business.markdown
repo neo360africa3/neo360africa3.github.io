@@ -1,5 +1,5 @@
 ---
-title: Here's what successful entrepreneurs have to say about excelling in business
+title: Motivational quotes from successful entrepreneurs
 date: 2019-10-10 11:34:00 Z
 categories:
 - Motivation
@@ -11,7 +11,7 @@ author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1570705439/NEO360%20BLOG/carl-heyerdahl-KE0nC8-58MQ-unsplash_-_Copy_ano27w.jpg
 ---
 
-Being an entrepreneur could be quite overwhelming. You try, you fail, you run, you fall. Maybe things are not going as planned1. . It could be a challenge and the motivation probably is not out there. 20 motivational quotes have been provided to keep you going and see you through the tough phase of your journey.
+Being an entrepreneur could be quite overwhelming. You try, you fail, you run, you fall. Maybe things are not going as planned. We got you! Here are 20 motivational quotes to keep you going and see you through the tough phase of your journey.
 
 * “Business opportunities are like buses: there’s always another one coming.” *-Richard Branson, Chairman and Founder of Virgin Group* <br/>
 
