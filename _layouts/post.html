@@ -45,7 +45,7 @@ post_class: post-template
                 <a href="#" class="d-flex align-items-center">
                      {% if page.author %}
                         {% if author.avatar %}
-                  <img src="{{site.baseurl}}/assets/assets/img/android-chrome-512x512.png" alt="{{ author.display_name }}" class="avatar avatar-sm">
+                  <img src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}" class="avatar avatar-sm">
                          {% endif %}
 
                   <div class="h6 mb-0 ml-3">{{ author.display_name }}</div>
