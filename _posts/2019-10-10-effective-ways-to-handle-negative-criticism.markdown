@@ -17,7 +17,7 @@ When given negative feedback, here are 5 effective ways to handle it;
 
 ## **Understand the problem**
 
-<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_300,w_450/v1570710857/NEO360%20BLOG/giphy_cjifrt.gif" />
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_300,w_450/v1570710857/NEO360%20BLOG/giphy_cjifrt.gif"/>
 
 In order to understand the problem, one should keep quiet, listen and reflect on what they’ve been told. Understanding the problem would enable you proffer a valuable solution to it. This would prevent more problems and enable customer satisfaction.
 
@@ -37,7 +37,7 @@ According to Mauricio Cardenal, negative criticism should not be taken too perso
 
 ## **Identify the cause of the problem**
 
-<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/c_scale,w_450/v1570710883/NEO360%20BLOG/shane-aldendorff-mQHEgroKw2k-unsplash_lh80js.jpg"/>
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570710883/NEO360%20BLOG/shane-aldendorff-mQHEgroKw2k-unsplash_lh80js.jpg"/>
 
 Identifying the cause of the problem is one of the first steps to take in order to avoid negative feedback another time. If a customer wasn’t satisfied with the product or service provided, try to identify what went wrong.
 
