@@ -8,12 +8,12 @@ tags:
 - relationships
 - business
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1570705419/NEO360%20BLOG/criticism_-_Copy_po75kg.jpg
+image: uploads/criticism.jpg
 ---
 
 *The customer is always right.* Is this true? It can be quite tough for entrepreneurs when they put in a lot of effort into a product and are not appreciated for it.
 
-However, Sean Harper, co-founder of Kin Insurance says, *"Feedback is useful. Once I started thinking this way, it made me realize I'm grateful for the opportunity to see an experience from another point of view and hopefully improve."*
+However, Sean Harper, co-founder of Kin Insurance says, "Feedback is useful. Once I started thinking this way, it made me realize I'm grateful for the opportunity to see an experience from another point of view and hopefully improve."
 
 Not many people know how to take such feedback. Here are a few things to do when faced with an angry customer:
 
