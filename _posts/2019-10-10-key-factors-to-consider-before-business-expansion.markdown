@@ -30,7 +30,7 @@ If you cannot confidently beat your chest in response to these questions, then y
 
 ## **Cash Flow**
 
-<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570716057/NEO360%20BLOG/Cash_Flow_xofkda.png"/>
+<img width="100%" scr="https://res.cloudinary.com/neo360africa/image/upload/v1570716057/NEO360%20BLOG/Cash_Flow_xofkda.png"/>
 
 Cash flow is inherently different from generating sales revenues. If after deducting your production costs, variable costs and there is barely any reasonable profit commensurate to the effort, resources and time put into the production and sales cycle or the profit can barely even cover marketing.
 
@@ -44,7 +44,7 @@ This involves having an increased demand for your product or services and also d
 
 ## **Market Analysis**
 
-<img width="100%" scr="https://res.cloudinary.com/neo360africa/image/upload/v1570705426/NEO360%20BLOG/Analytics-Concept-Finance-Infographic-AurielAki_-_Copy_ortnhw.jpg"/>
+<img width="100%" src=""https://res.cloudinary.com/neo360africa/image/upload/v1570705426/NEO360%20BLOG/Analytics-Concept-Finance-Infographic-AurielAki_-_Copy_ortnhw.jpg"/>
 
 You don’t just wake up one morning and decide to expand your business from Lagos to Abuja or from Nigeria to London without taking the time to analyse the new market. Apart from regulatory requirements, customers in this region are probably meeting their needs with available products or close substitutes. More so, they have certain preferences that might be a tad different from that of your current customer base. So, you need to carry out a comprehensive market analysis to ascertain if your business can thrive in the intended market or if you need some iteration of your product or marketing strategy.
 
