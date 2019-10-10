@@ -23,14 +23,14 @@ Is your business rightly structured to manage the diversity that comes with grow
 
 ## **Human Capacity**
 
-<img width="100%" scr="https://res.cloudinary.com/neo360africa/image/upload/v1570705419/NEO360%20BLOG/Business-36_-_Copy_wfq4br.jpg"/>
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570705419/NEO360%20BLOG/Business-36_-_Copy_wfq4br.jpg"/>
 
 Do you have the requisite manpower to manage the additional demands that accompany expansion? What is the composition of your team in terms of expertise, skills and intellectual range? <br/>
 If you cannot confidently beat your chest in response to these questions, then you have to hold off expansion until you have the right people on your team and they are well trained to handle the pressure of expansion. On the other hand, if your business is hard pressed to expand and you don't have the required capital, you can get financing to hire additional staff then proceed to expand.
 
 ## **Cash Flow**
 
-<img width="100%" scr="https://res.cloudinary.com/neo360africa/image/upload/v1570716057/NEO360%20BLOG/Cash_Flow_xofkda.png"/>
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570716057/NEO360%20BLOG/Cash_Flow_xofkda.png"/>
 
 Cash flow is inherently different from generating sales revenues. If after deducting your production costs, variable costs and there is barely any reasonable profit commensurate to the effort, resources and time put into the production and sales cycle or the profit can barely even cover marketing.
 
