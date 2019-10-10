@@ -16,7 +16,7 @@ SMEs create 2 out of every 3 new jobs! Despite this, they are often overlooked a
 
 According to research, more than half of SMEs are unable to fund their business ambitions. While there might be an increase in revenue, some find it difficult to reach their business goals. Some of these goals include employing more staff, opening other branches, launching new products and more. <br/>
 
-<img width="100%" src="![15-01.jpg](/uploads/15-01.jpg)"/>
+<img width="100%" src="uploads/15-01.jpg"/>
 
 However, challenges faced by SMEs include lack of access to affordable finance, skilled workforce, multiplicity of taxes, high cost of doing business, huge gaps in infrastructure and more. Some SMEs were able to share the challenges they face.
 
