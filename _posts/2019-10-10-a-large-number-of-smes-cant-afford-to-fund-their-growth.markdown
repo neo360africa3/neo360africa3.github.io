@@ -8,6 +8,8 @@ tags:
 - sme
 - growth
 - business development
+author: tolu
+image: uploads/Twill-SMEs-bf9af8.jpg
 ---
 
 SMEs create 2 out of every 3 new jobs! Despite this, they are often overlooked and underserved. Small and Medium Scale Enterprises are responsible for the development of new products and services which keeps the economy going. Due to its dynamic nature, SMEs are prone to a high mortality rate caused by sudden shifts in economic policies amongst other factors.
