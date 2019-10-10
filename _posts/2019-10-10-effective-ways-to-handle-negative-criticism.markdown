@@ -11,11 +11,9 @@ author: tolu
 image: uploads/criticism.jpg
 ---
 
-*The customer is always right.* Is this true? It can be quite tough for entrepreneurs when they put in a lot of effort into a product and are not appreciated for it.
-
-However, Sean Harper, co-founder of Kin Insurance says, "Feedback is useful. Once I started thinking this way, it made me realize I'm grateful for the opportunity to see an experience from another point of view and hopefully improve."
-
-Not many people know how to take such feedback. Here are a few things to do when faced with an angry customer:
+*The customer is always right.* Is this true? It can be quite tough for entrepreneurs when they put in a lot of effort into a product and are not appreciated.
+Entrepreneurs should understand that feedback is useful and provides an opportunity for individuals to do better.
+When given negative feedback, here are 5 effective ways to handle it;
 
 ## **Understand the problem**
 
