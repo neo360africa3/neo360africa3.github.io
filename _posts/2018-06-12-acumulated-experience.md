@@ -4,12 +4,16 @@ date: 2018-06-12 00:00:00 Z
 categories:
 - Jekyll
 - tutorial
-layout: post
 author: tolu
 image: assets/images/15.jpg
+layout: post
 ---
 
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+
+<div class="rounded jarallax min-vh-50 o-hidden" data-jarallax data-speed="0.2">
+ <img class="jarallax-img" src="assets/img/heros/hero-2.jpg" alt="Image">
+  </div>
 
 As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
 
