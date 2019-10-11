@@ -2,7 +2,7 @@
 title: Making the right connections for your business
 date: 2019-10-11 10:08:00 Z
 categories:
-- Starting Business
+- Managing Business
 tags:
 - business
 - connections
