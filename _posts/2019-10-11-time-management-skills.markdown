@@ -14,7 +14,7 @@ author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1570794878/NEO360%20BLOG/Elements_Business-20_dionly.jpg
 ---
 
-<img width="100%" src=https://res.cloudinary.com/neo360africa/image/upload/v1570803445/NEO360%20BLOG/giphy_1_yug8jm.gif" />
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570803445/NEO360%20BLOG/giphy_1_yug8jm.gif" />
 
 As an entrepreneur, time management cannot be overemphasized. Maybe you’re not a full time entrepreneur and you also work a 9 to 5, or you have a family you need to take care of. Even full time entrepreneurs have engaging activities that may be hindering them from achieving their goal. Here are a few tips on how to manage your time effectively;
 
