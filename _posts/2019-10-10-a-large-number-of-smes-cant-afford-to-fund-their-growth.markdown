@@ -2,7 +2,7 @@
 title: A large number of SMEs can’t afford to fund their growth
 date: 2019-10-10 10:58:00 Z
 categories:
-- Managing Business
+- Growing Business
 tags:
 - entrepreneurs
 - sme
