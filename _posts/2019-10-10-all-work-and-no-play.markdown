@@ -7,9 +7,7 @@ tags:
 - fun
 - leisure
 author: tolu
-image: 'https://res.cloudinary.com/neo360africa/image/upload/v1570788144/NEO360%20BLOG/manny-pantoja-10bgCz0qkto-unsplash_os2eqt.jpg
-
-'
+image: https://res.cloudinary.com/neo360africa/image/upload/v1570800589/NEO360%20BLOG/manny-pantoja-10bgCz0qkto-unsplash_os2eqt_1_owxu08.jpg
 ---
 
 You went to work on Monday, visited a client on Tuesday, went to the market on Wednesday, went to work on Thursday, thank God it's Friday.
