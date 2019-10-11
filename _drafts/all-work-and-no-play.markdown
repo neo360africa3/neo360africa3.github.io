@@ -12,7 +12,7 @@ image: https://res.cloudinary.com/neo360africa/image/upload/v1570723297/NEO360%2
 
 You went to work on Monday, visited a client on Tuesday, went to the market on Wednesday, went to work on Thursday, thank God it's Friday.
 
-<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570723597/NEO360%20BLOG/weekend_qcgkg3.gif" />
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570724058/NEO360%20BLOG/pop_x9njzv.gif" />
 
 What are you doing this weekend? Attending a wedding? Sleeping in? Or one of your customers just called and asked for an impromptu job?
 
@@ -22,7 +22,7 @@ Being an entrepreneur is not all about work. You should take some time to unwind
 
 <img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570724058/NEO360%20BLOG/pop_x9njzv.gif"/>
 
-It’s like nobody even has time for TV these days, you get home and you’re on your phone… chatting, scrolling through pictures or just watching random videos on Twitter. You can’t even sit for a few minutes to check out the news on TV. Your major news provider is probably Instablog or Pulse. It’s understandable. Why don’t you drop the phone for a while and visit the cinema? If you don’t want to, chill at home with Netflix and enjoy one or two movies. It’s just an hour or two (make sure you switch off your phone, so you have rest of mind). You will feel better after. Ensure it’s a genre you like, it could be comedy, romance or Sci-Fi… whatever it is that will entertain you.
+It’s like nobody even has time for TV these days, you get home and you’re on your phone… chatting, scrolling through pictures or just watching random videos on Twitter or Instagram. You can’t even sit for a few minutes to check out the news on TV. Your major news provider is probably Instablog or Pulse. It’s understandable. Why don’t you drop the phone for a while and visit the cinema? If you don’t want to, chill at home with Netflix and enjoy one or two movies. It’s just an hour or two (make sure you switch off your phone, so you have rest of mind). You will feel better after. Ensure it’s a genre you like, it could be comedy, romance or Sci-Fi… whatever it is that will entertain you.
 
 
 ## 2. GO TO THE BEACH
@@ -48,11 +48,15 @@ Are your employees finding it difficult to work with themselves? Take them paint
 
 If you live in Lagos and you haven’t been here, do you really live in Lagos? And you call yourself a Lagosian… okay, work never allowed you. Well, why not take a break and visit the Lekki Conservation Centre? It is one of the top nature reserves in Nigeria with calm scenery. It is also very popular for having the longest canopy walk in Africa. LCC is definitely one of the top places to unwind and let go.
 
-   So, dear entrepreneurs, how would you be spending your weekend? Other fun and enlightening activities coming soon include:
+So, dear entrepreneurs, how would you be spending your weekend? Other fun and enlightening activities coming soon include:
 
-   •   Lagos Digital Marketing Training – October 12th 2019
 
-   •   Africa Oil & Gas Talent Summit 2019 – October 30th 2019
+* Lagos Digital Marketing Training – October 12th 2019
 
-   •   Lagos Expo 2019: Fashion – November 30th 2019
-   HAVE FUN!
+* Business in Fashion Summit - October 31st 2019
+
+* Africa Oil & Gas Talent Summit 2019 – October 30th 2019
+
+* Lagos Expo 2019: Fashion – November 30th 2019
+  
+*HAVE FUN!*
