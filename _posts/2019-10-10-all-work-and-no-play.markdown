@@ -40,9 +40,15 @@ Nike Art Gallery is filled with over a thousand works of art of different genres
 
 ## 4. GO PAINTBALLING
 
+<img wisth="100%"
+src="https://res.cloudinary.com/neo360africa/image/upload/v1570785341/NEO360%20BLOG/bish-fighters-paintballing-tickets_yptww4.jpg" />
+
 Are your employees finding it difficult to work with themselves? Take them paintballing. They will learn by force. Paintballing is an activity which involves shooting people on the opposite team with a fake gun filled with pellets of paint. If you’re too serious at work, it sure would bring out your fun side.
 
 ## 5. GO TO THE LEKKI CONSERVATION CENTRE
+
+<img width="100%"
+src="https://res.cloudinary.com/neo360africa/image/upload/v1570784006/NEO360%20BLOG/Lekki-Conservation-center-2_dhp1b4.jpg" />
 
 If you live in Lagos and you haven’t been here, do you really live in Lagos? And you call yourself a Lagosian… okay, work never allowed you. Well, why not take a break and visit the Lekki Conservation Centre? It is one of the top nature reserves in Nigeria with calm scenery. It is also very popular for having the longest canopy walk in Africa. LCC is definitely one of the top places to unwind and let go.
 
