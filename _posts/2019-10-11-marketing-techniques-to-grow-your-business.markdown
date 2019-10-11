@@ -6,6 +6,9 @@ categories:
 tags:
 - marketing
 - strategies
+- business growth
+- social media
+- partnership
 author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/v1570805124/NEO360%20BLOG/campaign-creators-yktK2qaiVHI-unsplash_ay7tqw.jpg
 ---
