@@ -2,10 +2,10 @@
 title: All work and no play?
 date: 2019-10-10 16:01:00 Z
 categories:
-- Entertainment
+- Leisure in Business
 tags:
-- entertainment
 - fun
+- leisure
 author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_2500/v1570723297/NEO360%20BLOG/manny-pantoja-10bgCz0qkto-unsplash_asclld.jpg
 ---
