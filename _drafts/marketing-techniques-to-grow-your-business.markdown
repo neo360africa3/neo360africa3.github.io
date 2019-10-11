@@ -7,7 +7,7 @@ tags:
 - marketing
 - strategies
 author: tolu
-image: 
+image: https://res.cloudinary.com/neo360africa/image/upload/v1570805124/NEO360%20BLOG/campaign-creators-yktK2qaiVHI-unsplash_ay7tqw.jpg
 ---
 
 Marketing is an essential tool for business growth. Marketing builds awareness, increases sales and engages customers. In order to grow and promote your business, marketing strategies are important. Key marketing strategies to grow your business include:
