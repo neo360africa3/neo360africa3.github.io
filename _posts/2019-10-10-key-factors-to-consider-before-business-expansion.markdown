@@ -2,7 +2,7 @@
 title: Key factors to consider before business expansion
 date: 2019-10-10 11:26:00 Z
 categories:
-- Managing Business
+- Growing Business
 tags:
 - business
 - expansion
