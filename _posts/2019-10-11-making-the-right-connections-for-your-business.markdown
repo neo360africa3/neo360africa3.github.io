@@ -1,5 +1,5 @@
 ---
-title: How to remain distinct in the industry
+title: How to remain distinct in your industry
 date: 2019-10-11 09:08:00 Z
 categories:
 - Managing Business
