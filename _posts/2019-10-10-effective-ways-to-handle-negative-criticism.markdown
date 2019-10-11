@@ -2,7 +2,7 @@
 title: Effective ways to handle negative criticism
 date: 2019-10-10 12:23:00 Z
 categories:
-- Relationships in business
+- Managing Business
 tags:
 - customer
 - relationships
