@@ -43,7 +43,7 @@ Nike Art Gallery is filled with over a thousand works of art of different genres
 <img width="100%"
 src="https://res.cloudinary.com/neo360africa/image/upload/v1570785341/NEO360%20BLOG/bish-fighters-paintballing-tickets_yptww4.jpg" />
 
-Are your employees finding it difficult to work with themselves? Take them paintballing. They will learn by force. Paintballing is an activity which involves shooting people on the opposite team with a fake gun filled with pellets of paint. If you’re too serious at work, it sure would bring out your fun side.
+Are your employees finding it difficult to work with themselves? Take them paintballing. They will learn by force. Paintballing is an activity that involves shooting people on the opposite team with a fake gun filled with pellets of paint. If you’re too serious at work, it sure would bring out your fun side.
 
 ## 5. GO TO THE LEKKI CONSERVATION CENTRE
 
@@ -60,6 +60,6 @@ So, dear entrepreneurs, how would you be spending your weekend? Other fun and en
 
 * Africa Oil & Gas Talent Summit 2019 – October 30th 2019
 
-* Lagos Expo 2019: Fashion – November 30th 2019
+
 
 *HAVE FUN!*
