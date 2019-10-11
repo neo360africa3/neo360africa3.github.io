@@ -8,7 +8,7 @@ tags:
 - distinction
 - competition
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1570786281/NEO360%20BLOG/recruitment_6trgi_1_tcennw.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1570787307/NEO360%20BLOG/multi_level_df4a_1_om8qdz.jpg
 ---
 
 One of the challenges entrepreneurs face is standing out in the crowd. The competition out there is tough, so it is important to create a niche for yourself that differentiates you from your competitors. Established brands like Coca-Cola, Apple and others have been able to stand out in their various industries because of outstanding and unique features they possess.
