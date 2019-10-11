@@ -7,7 +7,7 @@ tags:
 - fun
 - leisure
 author: tolu
-image: 'https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_1500/v1570723297/NEO360%20BLOG/manny-pantoja-10bgCz0qkto-unsplash_asclld.jpg
+image: 'https://res.cloudinary.com/neo360africa/image/upload/v1570788144/NEO360%20BLOG/manny-pantoja-10bgCz0qkto-unsplash_os2eqt.jpg
 
 '
 ---
