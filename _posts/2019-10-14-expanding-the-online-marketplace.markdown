@@ -1,5 +1,5 @@
 ---
-title: Expanding to the online marketplace
+title: Extending to the online marketplace
 date: 2019-10-14 12:41:00 Z
 categories:
 - Growing Business
