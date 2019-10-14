@@ -41,7 +41,6 @@ You’ve identified your passion, so what’s your purpose? Myles Munroe said *�
 An entrepreneur that lacks focus lacks direction. The ability to focus can make or break your success in life. Focus produces valuable results. as an entrepreneur, if you lack focus, you tend to become easily distracted by various factors such as the economy, various policies and other challenges. Stay focused!
 
 ### **Perseverance**
-
 <img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1571055925/NEO360%20BLOG/allie-smith-WLvzdarBNKc-unsplash_ezpqlm.jpg" />
 
 This is the ability to withstand every obstacle an entrepreneur may face. Entrepreneurs need perseverance to be able to overcome challenges in business.
