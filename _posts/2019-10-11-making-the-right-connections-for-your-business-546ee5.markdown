@@ -8,7 +8,7 @@ tags:
 - connections
 - entrepreneur
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1570789254/NEO360%20BLOG/Partner-01_a6psqa.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571042040/NEO360%20BLOG/Partner-01_a6psqa_rtjvs5.jpg
 ---
 
 Another business idea just popped into your head and you don’t know how to start. You don’t know how you are going to achieve this big dream of yours. You need connection; strong business connections that can help you take your business to the next level. Ensure you make connections with the right people that can help you build your career and grow your business. 
