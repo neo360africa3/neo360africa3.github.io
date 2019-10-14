@@ -11,7 +11,7 @@ tags:
 - efiiciency
 - multitasking
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1570794878/NEO360%20BLOG/Elements_Business-20_dionly.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571042500/NEO360%20BLOG/Elements_Business-20_dionly_vma4ll.jpg
 ---
 
 <img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1570803445/NEO360%20BLOG/giphy_1_yug8jm.gif" />
