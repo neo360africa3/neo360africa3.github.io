@@ -10,7 +10,7 @@ tags:
 - social media
 - partnership
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1570805124/NEO360%20BLOG/campaign-creators-yktK2qaiVHI-unsplash_ay7tqw.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571042369/NEO360%20BLOG/campaign-creators-yktK2qaiVHI-unsplash_ay7tqw_k7ut62.jpg
 ---
 
 Marketing is an essential tool for business growth. Marketing builds awareness, increases sales and engages customers. In order to grow and promote your business, marketing strategies are important. Key marketing strategies to grow your business include:
