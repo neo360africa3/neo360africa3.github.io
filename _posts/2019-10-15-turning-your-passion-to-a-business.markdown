@@ -5,7 +5,7 @@ author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/v1571135827/NEO360%20BLOG/randalyn-hill-Z1HXJQ2aWIA-unsplash_1_i8kaib.jpg
 ---
 
-Passion is one of the key characteristics to succeed as an entrepreneur. Have you found yours? That passion is your driving force. Despite whatever obstacle may come your way, your passion helps you through it. True passion for your business leads to outstanding success because you are doing what you love. Find more about passion </b><b><a href="https://www.blog.neo360africa.com/are-you-an-entrepreneur/" rel="follow" target="_self">here</a></b></p><h2><b>1
+Passion is one of the key characteristics to succeed as an entrepreneur. Have you found yours? That passion is your driving force. Despite whatever obstacle may come your way, your passion helps you through it. True passion for your business leads to outstanding success because you are doing what you love. Find more about passion </b><a href="https://www.blog.neo360africa.com/are-you-an-entrepreneur/" rel="follow" target="_self">here</a>
 
 Here are a few steps to help you transform your passion to a successful business;
 
