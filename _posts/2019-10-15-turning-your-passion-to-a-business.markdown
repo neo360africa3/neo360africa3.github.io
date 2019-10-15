@@ -10,7 +10,7 @@ tags:
 - business
 - engagement
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1571135827/NEO360%20BLOG/randalyn-hill-Z1HXJQ2aWIA-unsplash_1_i8kaib.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571138187/NEO360%20BLOG/8e36e8624906632f841782bad45c05f0_czdf46.jpg
 ---
 
 Passion is one of the key characteristics to succeed as an entrepreneur. Have you found yours? That passion is your driving force. Despite whatever obstacle may come your way, your passion helps you through it. True passion for your business leads to outstanding success because you are doing what you love. Find more about passion <a href="https://www.blog.neo360africa.com/are-you-an-entrepreneur/" rel="follow" target="_self">here</a>.
