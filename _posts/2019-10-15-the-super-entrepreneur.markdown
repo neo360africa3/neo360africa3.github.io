@@ -14,6 +14,8 @@ image: https://res.cloudinary.com/neo360africa/image/upload/v1571140839/NEO360%2
 
 Did you know that entrepreneurs are superheroes? Yes! You are a superhero. This is because you play a very significant role in the country’s development. Without you, will Nigeria thrive? You contribute to the economy, you take risks, you make impact. Here’s an acronym that best defines you as a superhero.
 
+<img width+"100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1571141583/NEO360%20BLOG/giphy_uriahb.gif" />
+
 ### **S – SELF LESS**
 
 Putting the needs of others before one’s self is selflessness. Before making decisions and taking action, entrepreneurs are quick to consider the needs of their customers first and if they will be satisfied.
