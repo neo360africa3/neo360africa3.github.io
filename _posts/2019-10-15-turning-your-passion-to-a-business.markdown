@@ -19,11 +19,14 @@ Here are a few steps to help you transform your passion to a successful business
 
 ## **Find your passion** 
 
-A passion is a feeling of excitement or desire towards something. What do you love to do without coercion? That’s your passion. Successful entrepreneurs like Walt Disney, Bill Gates and Steve Jobs turned a passion into a business and they thrived in it. Steve Jobs said “people with passion can change the world.” Your passion can make impact.
+A passion is a feeling of excitement or desire towards something. What do you love to do without coercion? That’s your passion. Successful entrepreneurs like Walt Disney, Bill Gates and Steve Jobs turned a passion into a business and they thrived in it. Steve Jobs said *“people with passion can change the world.”* Your passion can make impact.
 
 ## **Conduct research**
 
 You’ve found your passion, don’t think you know all about it. There are people out there with a similar passion as you. Some are succeeding, some are not. Conduct your research and find out more about your passion. How can you improve? What resources are needed to venture into a business? Read the stories of others. Conducting necessary research will enlighten you about the pros and cons of the passion in business form.
+
+</h3><blockquote><p>“people with passion can change the world.”<br>
+<strong>
 
 ## **Engage with people**
 
