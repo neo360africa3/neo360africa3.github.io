@@ -30,6 +30,8 @@ While planning your day, remember to start with the simple tasks and keep the co
 
 ## Take a break
 
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1571239405/NEO360%20BLOG/giphy_1_uby8xm.gif" />
+
 Your plan better include a break. It could be overwhelming working from one task to the other, brainstorming and engaging in lengthy business meetings. Ensure you take a break once in a while to allow your mind and body rest; this boosts creativity and promotes efficiency. Why not check out fun ways to relax <a href="https://www.blog.neo360africa.com/all-work-and-no-play/" rel="nofollow" target="_blank">here</a>.
 
 ## Improve your strategy
