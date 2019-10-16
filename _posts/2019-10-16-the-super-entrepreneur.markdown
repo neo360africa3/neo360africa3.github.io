@@ -1,6 +1,6 @@
 ---
 title: The Super Entrepreneur
-date: 2019-10-15 11:49:00 Z
+date: 2019-10-16 11:49:00 Z
 categories:
 - Motivation
 tags:
