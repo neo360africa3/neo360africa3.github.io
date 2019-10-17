@@ -10,7 +10,7 @@ tags:
 - money
 - investment
 author: tolu
-image: https://neo360africa2.slack.com/files/UJKEB0GJ2/FPA97HUN5/image.png
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571303685/NEO360%20BLOG/image_tykisf.png
 ---
 
 ### Identify the cause and analyse your costs
