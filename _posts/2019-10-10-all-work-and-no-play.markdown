@@ -2,7 +2,7 @@
 title: All work and no play?
 date: 2019-10-10 16:01:00 Z
 categories:
-- Leisure in Business
+- Lifestyle
 tags:
 - fun
 - leisure
