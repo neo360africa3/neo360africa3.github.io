@@ -33,4 +33,6 @@ A budget performs the function of managing your money effectively. If the budget
 
 An increase in revenue may not be the only solution to negative cash flow. Seeking a loan could be the plus you need to revive your business and turn the cash flow positive.
 
+
+
 *The problem of negative cash flow cannot be solved overnight, it takes diligence and accuracy. At Neo360 Africa, we provide business advisory sessions to our SME partners in order to help them solve such issues. Why not partner with us?*
