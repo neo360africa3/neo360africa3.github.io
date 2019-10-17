@@ -10,7 +10,7 @@ tags:
 - money
 - investment
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1571304335/NEO360%20BLOG/cashflow_2_di0s4o.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1571304044/NEO360%20BLOG/cashflow_ywswcf.jpg
 ---
 
 ### Identify the cause and analyse your costs
@@ -34,5 +34,5 @@ A budget performs the function of managing your money effectively. If the budget
 An increase in revenue may not be the only solution to negative cash flow. Seeking a loan could be the plus you need to revive your business and turn the cash flow positive.
 
 
-
+<br/>
 *The problem of negative cash flow cannot be solved overnight, it takes diligence and accuracy. At Neo360 Africa, we provide business advisory sessions to our SME partners in order to help them solve such issues. Why not partner with us?*
