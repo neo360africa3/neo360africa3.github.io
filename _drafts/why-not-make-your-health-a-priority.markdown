@@ -1,11 +1,20 @@
 ---
 title: Why not make your health a priority?
 date: 2019-10-17 14:59:00 Z
+categories:
+- Lifestyle
+tags:
+- health
+- wealth
+- leisure
+- growth
+- lifestyle
 author: tolu
 image: 
 ---
 
 Being an entrepreneur is quite a challenge. While it is important to focus on your business and ensure things are going well, your health deserves a substantial amount of time and attention. If you don’t take care of yourself, you are setting yourself and your business up for some relapse.
+
 Why not make your health a priority?
 
 # Nourish your body
@@ -31,3 +40,9 @@ If you’re in Lagos, you might just laugh this off. With the amount of time we 
 <img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1571324644/NEO360%20BLOG/giphy_3_jrzhy9.gif" />
 
 Sometimes, you just need to unwind and stay away. Take some time off for yourself and take care. You may decide to put your phone away too to avoid distractions. Travel, meditate, think positively.
+
+
+Spend the weekend taking good care of yourself and your health. It is important!
+
+
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1571311505/NEO360%20BLOG/Sending_Health_tought_your_way_y5ejhm.jpg" />
