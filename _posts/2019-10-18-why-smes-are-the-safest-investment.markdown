@@ -2,7 +2,7 @@
 title: Why SMEs are the safest investment
 date: 2019-10-18 13:34:00 Z
 categories:
-- Investor's corner
+- Investors
 tags:
 - growth
 - invest
