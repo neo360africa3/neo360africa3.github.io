@@ -10,7 +10,7 @@ tags:
 - entrepreneurs
 - economy
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1571409428/NEO360%20BLOG/SMEs_fndxhw.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571410629/NEO360%20BLOG/Elements_Business-26_gxyx53.jpg
 ---
 
 There are various methods of investment in Nigeria, such as stocks, bonds, shares, mutual funds, treasury bills and more. Over the years, treasury bills have been said to be the safest means of investment. Are they really?  People believe that they are because they are backed by the full faith and credit of the Federal government, with a high and fast rate of maturity. However, the returns are low and it is possible for the government to default in repayment.
