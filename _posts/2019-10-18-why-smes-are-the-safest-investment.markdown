@@ -36,6 +36,8 @@ Entrepreneurs are innovative individuals, always coming up with new ideas and pl
 Investing in SMEs this way creates impact in your society. It motivates you when a business you’ve invested in is excelling and making impact in the economy. Rather than put all your eggs in one basket, work with an entrepreneur and grow the economy. Such growth occurs when you see your SMEs making waves in their field, employing more people, thus reducing the rate of unemployment in the country. This brings satisfaction.
 
 
+
+
 *NE0360 Africa offers services to both SMEs and investors. With adequate knowledge of your field and rate of risk involved, we will set you up with the right business or investor to help you grow.*
 
 
