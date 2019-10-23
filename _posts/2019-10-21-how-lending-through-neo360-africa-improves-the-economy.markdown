@@ -4,7 +4,7 @@ date: 2019-10-21 08:36:00 Z
 categories:
 - Investors
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1571827676/Neo360logobig_hydiqw.png
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571828094/Artboard_zuuemi.png
 ---
 
 NEO360 Africa is a peer-to-peer lending platform established for the development of SMEs. SMEs contribute significantly to the growth of the Nigerian economy and NEO360 is set to help small businesses get better which in turn further improves the economy. 
