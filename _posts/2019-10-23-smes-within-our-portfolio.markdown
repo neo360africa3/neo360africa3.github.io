@@ -52,5 +52,5 @@ Loans are provided for these industries to meet the demands of customers, purcha
 For schools that need to purchase more uniforms, expand their space, or employ more teachers, we are available to fund such developments. NEO360 is interested in contributing to the development of tomorrow’s future leaders. <br/>
 
 
-*If you have a business within any of the above sectors, why not contact us today.*
+*If you have a business within any of the above sectors, contact us today.*
 
