@@ -17,9 +17,9 @@ Financing your hotel business through NEO360 is the easiest & painless way to ac
 
 ## **PHARMACIES**
 
-The importance of pharmacies in the society cannot be over emphasized. The provision of loans for pharmacies could be for the purchase of more drugs, the establishment of another branch for convenience, or maybe partnership with other health institutions. We are ready to help you save lives.
+The importance of pharmacies in society cannot be over emphasized. The provision of loans for pharmacies could be for the purchase of more drugs, the establishment of another branch for convenience, or maybe a partnership with other health institutions. We are ready to help you save lives.
 
-## **LIVESTOCK FARMING **
+## **LIVESTOCK FARMING**
 
 Livestock farming is another important sector of the Nigerian economy. Loans are provided for the purchase of livestock, equipment and business premises expansion. 
 
