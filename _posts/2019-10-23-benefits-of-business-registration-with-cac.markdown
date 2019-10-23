@@ -10,7 +10,7 @@ image: https://res.cloudinary.com/neo360africa/image/upload/v1571053976/NEO360%2
 Many entrepreneurs, especially small business owners fail to realise the importance of business registration in Nigeria. Some see it as a long and tough process that does not add much value to their existing business. Contrary to this popular belief, we observed that there are a lot of advantages of registering your business with CAC. 
 
  
-The <a href="https://www.new.cac.gov.ng/home/" rel="nofollow" target="_blank">Corporate Affairs Commission</a>is the body in charge of business registration in Nigeria. With offices all over the country and an official website, they are very reachable and there’s no reason why you shouldn’t get your business registered.
+The <a href="https://www.new.cac.gov.ng/home/" rel="nofollow" target="_blank">Corporate Affairs Commission</a> is the body in charge of business registration in Nigeria. With offices all over the country and an official website, they are very reachable and there’s no reason why you shouldn’t get your business registered.
 If you’ve been stalling on getting your business registered, the following reasons will convince you:
 
 * Business registration is important to engage with banks and other lending platforms. First, you need a corporate account for your business. Without one, you cannot get a business loan. A business account is also better for ease of transactions, rather than a personal account. Kindly note that your CAC certificate will be required to open a business account.
