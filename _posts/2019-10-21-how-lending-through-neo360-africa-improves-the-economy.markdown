@@ -1,5 +1,5 @@
 ---
-title: How lending through NEO360 Africa improves the economy
+title: How lending through NEO360 improves the economy
 date: 2019-10-21 08:36:00 Z
 categories:
 - Investors
