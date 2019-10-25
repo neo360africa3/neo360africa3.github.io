@@ -3,6 +3,12 @@ title: Benefits of business registration with CAC
 date: 2019-10-22 12:06:00 Z
 categories:
 - Managing Business
+tags:
+- business
+- nigeria
+- corporate affairs commission
+- law
+- registration
 author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/v1571995339/NEO360%20BLOG/concentration-desk-earphones-1251863_1_bzuk9p.jpg
 ---
