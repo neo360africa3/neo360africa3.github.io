@@ -3,6 +3,14 @@ title: Loan purposes we can help with
 date: 2019-10-24 08:59:00 Z
 categories:
 - Growing Business
+tags:
+- loans
+- finance
+- cash flow
+- investment
+- business growth
+- expansion
+- development
 author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/v1571995196/NEO360%20BLOG/accounting-black-budget-53621_1_mb4ssr.jpg
 ---
