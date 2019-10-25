@@ -11,7 +11,7 @@ NEO360 Africa is a peer-to-peer lending platform established for the development
  
 ## How do SMEs improve the economy?
 
-* **They create new job opportunities** – Rather than sit back and do nothing, Nigerians learn various skills and traits which become a small business creating wealth for them and their household a source of wealth to them. In addition, SMEs employ more staff to learn these skills and traits, thus creating more job opportunities and reducing the rate of unemployment in the country.
+* **They create new job opportunities** – Rather than sit back and do nothing, Nigerians learn various skills and traits which become a small business creating wealth for them and their household. In addition, SMEs employ more staff to learn these skills and traits, thus creating more job opportunities and reducing the rate of unemployment in the country.
 
 
 * **They make efficient use of local resources** – With the ban on the importation of various goods, and the charges that come with imports, small business owners utilise the raw materials readily available in the country. This reduces the cost of goods and services provided.
@@ -30,7 +30,8 @@ NEO360 Africa is a peer-to-peer lending platform established for the development
 
 
 *What is NEO360’s role?*
-NEO360 Africa is readily available to provide the funds needed for SMEs to expand and boost their businesses. As they expand, they develop the economy, thus we serve as an efficient intermediary between the entrepreneur and the economy. We are ready to help.
+<br/>
+*NEO360 Africa is readily available to provide the funds needed for SMEs to expand and boost their businesses. As they expand, they develop the economy, thus we serve as an efficient intermediary between the entrepreneur and the economy. We are ready to help.*
 
 For inquiries email: info@neo360africa.com
 
