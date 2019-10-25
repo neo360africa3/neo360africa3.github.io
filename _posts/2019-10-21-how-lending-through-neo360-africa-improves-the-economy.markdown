@@ -30,7 +30,8 @@ NEO360 Africa is a peer-to-peer lending platform established for the development
 
 
 *What is NEO360’s role?*
-<br/>
+
+
 *NEO360 Africa is readily available to provide the funds needed for SMEs to expand and boost their businesses. As they expand, they develop the economy, thus we serve as an efficient intermediary between the entrepreneur and the economy. We are ready to help.*
 
 For inquiries email: info@neo360africa.com
