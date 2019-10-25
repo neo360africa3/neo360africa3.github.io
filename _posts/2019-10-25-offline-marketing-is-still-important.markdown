@@ -16,7 +16,7 @@ image: https://res.cloudinary.com/neo360africa/image/upload/v1572017831/NEO360%2
 With the increase in the advent of technology, various individuals and businesses have abandoned the use of traditional and offline media to market and advertise. SMEs should remember that these traditional methods are also very effective. 
 
 
-* **Word of mouth** – You cannot introduce yourself without telling someone what you do for a living. That’s marketing. Next time, don’t just say it casually “I’m a designer”, feel free to express it in a way that makes people want to know more about you and your business. Say “I’m a visual artist that specialises in the creation of images and designs” This leads to more questions.
+* **Word of mouth** – You cannot introduce yourself without telling someone what you do for a living. That’s marketing. Next time, don’t just say it casually “I’m a designer”, feel free to express it in a way that makes people want to know more about you and your business. Say “I’m a visual artist that specialises in the creation of images and designs” This leads to more questions and keeps people interested.
 
 
 * **Business cards** – You can’t be an entrepreneur and not have a business card. These cards should be taken everywhere with you to share with potential investors and customers. While word of mouth may also be effective, the business card makes them remember you and what you do. It is also necessary for contact reasons. 
