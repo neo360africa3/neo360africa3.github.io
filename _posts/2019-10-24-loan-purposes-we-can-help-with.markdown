@@ -29,5 +29,7 @@ image: https://res.cloudinary.com/neo360africa/image/upload/v1571995196/NEO360%2
 
 * Improve working capital – The improvement of working capital is necessary for a business to thrive.
 
-*If you need assistance with any of the above, contact us today.
-info@neo360africa.com*
+*If you need assistance with any of the above, contact us today.*
+
+<br/>
+*info@neo360africa.com*
