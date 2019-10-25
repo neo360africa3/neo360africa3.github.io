@@ -28,3 +28,6 @@ image: https://res.cloudinary.com/neo360africa/image/upload/v1571995196/NEO360%2
 * Advertising and marketing – 	Marketing is an important tool needed for business growth, so we make loans available for the promotion of your business on advertising and marketing platforms.
 
 * Improve working capital – The improvement of working capital is necessary for a business to thrive.
+
+*If you need assistance with any of the above, contact us today.
+info@neo360africa.com*
