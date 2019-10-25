@@ -13,11 +13,11 @@ Supermarkets may require loans for expansion, employment of more staff and the p
 
 ## **HOTELS**
 
-Financing your hotel business through NEO360 is the easiest & painless way to access business growth finance. The purpose of Loan could be a renovation of business premises, hiring more staffs for productivity. NEO360 is interested in helping you take your business to the next level, thus providing comfort and satisfaction for your guests.
+Financing your hotel business through NEO360 is the easiest & painless way to access business growth finance. The purpose of loans could be a renovation of business premises, hiring more staff for productivity. NEO360 is interested in helping you take your business to the next level, thus providing comfort and satisfaction for your guests.
 
 ## **PHARMACIES**
 
-The importance of pharmacies in society cannot be over emphasized. The provision of loans for pharmacies could be for the purchase of more drugs, the establishment of another branch for convenience, or maybe a partnership with other health institutions. We are ready to help you save lives.
+The importance of pharmacies in society cannot be overemphasized. The provision of loans for pharmacies could be for the purchase of more drugs, the establishment of another branch for convenience, or maybe a partnership with other health institutions. We are ready to help you save lives.
 
 ## **LIVESTOCK FARMING**
 
