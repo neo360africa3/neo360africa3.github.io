@@ -3,6 +3,24 @@ title: SMEs within our portfolio
 date: 2019-10-23 15:57:00 Z
 categories:
 - Investors
+tags:
+- business
+- entrepeneurs
+- supermarkets
+- bakeries
+- hotels
+- pharmacies
+- livestock
+- farming
+- production
+- property
+- media
+- entertainment
+- photography
+- fashion
+- transport
+- logistics
+- food
 author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/v1571846868/NEO360%20BLOG/mr-autthaporn-pradidpong-EZt7OJagHyY-unsplash_oohypy.jpg
 ---
