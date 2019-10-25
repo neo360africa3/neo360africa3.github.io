@@ -11,7 +11,7 @@ image: https://res.cloudinary.com/neo360africa/image/upload/v1571995196/NEO360%2
 
 * Boost cash flow – Loans are provided to help you turn your negative cash flow to positive.
 
-* Buy new equipment – Loan for the purchase of new equipment is required for growth and expansion. This additional equipment may be needed to meet the demand of customers.
+* Buy new equipment – Loans for the purchase of new equipment is required for growth and expansion. This additional equipment may be needed to meet the demand of customers.
 
 * Renovate premises – The renovation of premises is a form of rebranding, which is important for expansion.
 
