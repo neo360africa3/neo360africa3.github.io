@@ -1,6 +1,6 @@
 ---
 title: Loan purposes we can help with
-date: 2019-10-25 08:59:00 Z
+date: 2019-10-24 08:59:00 Z
 categories:
 - Growing Business
 author: tolu
