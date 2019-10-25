@@ -4,7 +4,7 @@ date: 2019-10-25 08:59:00 Z
 categories:
 - Growing Business
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1571994754/NEO360%20BLOG/accounting-black-budget-53621_vzefad.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571995196/NEO360%20BLOG/accounting-black-budget-53621_1_mb4ssr.jpg
 ---
 
 * Technology Investments – As technology develops over time, it is important for entrepreneurs to jump on the bandwagon and adopt these technological methods in order to improve productivity in the workplace. 
