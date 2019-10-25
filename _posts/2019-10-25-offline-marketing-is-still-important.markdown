@@ -10,7 +10,7 @@ tags:
 - business
 - growth
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1572017035/NEO360%20BLOG/advertising-bank-brochure-623046_rcz4gc.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1572017831/NEO360%20BLOG/advertising-bank-brochure-623046_1_qinusu.jpg
 ---
 
 With the increase in the advent of technology, various individuals and businesses have abandoned the use of traditional and offline media to market and advertise. SMEs should remember that these traditional methods are also very effective. 
