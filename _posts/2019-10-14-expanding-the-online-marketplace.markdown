@@ -8,7 +8,7 @@ tags:
 - expansion
 - online
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1571058319/NEO360%20BLOG/benjamin-dada-EDZTb2SQ6j0-unsplash_1_dtkblw.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571994910/NEO360%20BLOG/black-cellphone-contemporary-955402_shl3yl.jpg
 ---
 
 With the advancement in technology, it is important for businesses to branch out and adopt the use of online innovations. The internet has created electronic or virtual marketplaces where business transactions can take place without any geographical barriers. Bill Gates said, *“if your business is not on the web, then your business will be out of business.”* <br/>
