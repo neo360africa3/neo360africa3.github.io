@@ -4,7 +4,7 @@ date: 2019-10-22 12:06:00 Z
 categories:
 - Managing Business
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1571053976/NEO360%20BLOG/nesa-by-makers-IgUR1iX0mqM-unsplash_txnzmj.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1571995339/NEO360%20BLOG/concentration-desk-earphones-1251863_1_bzuk9p.jpg
 ---
 
 Many entrepreneurs, especially small business owners fail to realise the importance of business registration in Nigeria. Some see it as a long and tough process that does not add much value to their existing business. Contrary to this popular belief, we observed that there are a lot of advantages of registering your business with CAC. 
