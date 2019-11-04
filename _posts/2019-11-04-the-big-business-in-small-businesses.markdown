@@ -1,6 +1,13 @@
 ---
 title: The Big Business in Small Businesses
 date: 2019-11-04 15:07:00 Z
+categories:
+- Motivation
+tags:
+- big businesses
+- small businesses
+- SMEs
+- entrepreneurship
 author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/v1572604699/NEO360%20BLOG/small_biz_big_3_xqr74j.jpg
 ---
