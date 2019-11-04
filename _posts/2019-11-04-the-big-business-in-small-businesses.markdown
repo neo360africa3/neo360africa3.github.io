@@ -20,7 +20,7 @@ As an entrepreneur, how do you see yourself? Yes, you may be referred to as an S
 
 As an SME, you are a key player in the country’s economic advancement plan. SMEs have been proven to account for over 46% of the global GDP in the last 5 years and account for 96% of the entire business sector in Nigeria. 
 You may be small, but you play a huge role. You support local communities, provide essential services and develop innovative new products. You also contribute a lot to the country’s tax revenue. 
-In fact,you are the  <a href=https://www.blog.neo360africa.com/the-super-entrepreneur/" rel="nofollow" target="_blank">unacknowledged heroes</a> of our economy and you deserve recognition all year long!
+In fact, you are the  <a href="https://www.blog.neo360africa.com/the-super-entrepreneur/" rel="nofollow" target="_blank">unacknowledged heroes</a> of our economy and you deserve recognition all year long!
 
 You are highly responsible for the alleviation of poverty in the nation and contribute significantly to the employment rate. Despite the huge unemployment rate, SMEs have been able to mitigate the rate by providing jobs on different levels. Statistics reveal that SMEs are responsible for 30-50% of household income and account for over 84% of the Nigerian labour force.
 
