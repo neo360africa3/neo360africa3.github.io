@@ -1,8 +1,8 @@
 ---
 title: The Big Business in Small Businesses
 date: 2019-11-04 15:07:00 Z
-author: Toluwani Segun- Babatunde
-image: "/uploads/small%20biz%20big%204.jpg"
+author: tolu
+image: https://res.cloudinary.com/neo360africa/image/upload/v1572604699/NEO360%20BLOG/small_biz_big_4_lw6xa5.jpg
 ---
 
 <img src="/uploads/small%20biz%20big%20imp.jpg" width="100%"/>
@@ -15,4 +15,4 @@ You are highly responsible for the alleviation of poverty in the nation and cont
 SMEs are highly innovative. The research and development process can be a very cumbersome process, but many creative ideas often come from small businesses. The huge number of ideas commercialized and marketed by the big businesses come from small businesses. The creative and ingenious mind of entrepreneurs creates room for rapid solution to problems in various sectors of business. They also utilize the unexplored local raw materials to solve these problems; which has significantly helped increase foreign trade as well.
 SMEs should not be intimidated by big businesses but should rather pursue a partnership with them in terms of marketing, finance, distribution and more to create more impact in the economy. In fact it has been proven that the big businesses need the small businesses to thrive and that is YOU.
 
-<img src="/uploads/small%20biz%20big%20%204imp.jpg" width="100%"/>>
+<img src="uploads/small%20biz%20big%20%204imp.jpg" width="100%"/>
