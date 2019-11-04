@@ -2,7 +2,7 @@
 title: The Big Business in Small Businesses
 date: 2019-11-04 15:07:00 Z
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1572604699/NEO360%20BLOG/small_biz_big_4_lw6xa5.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1572604699/NEO360%20BLOG/small_biz_big_3_xqr74j.jpg
 ---
 
 <img src="/uploads/small%20biz%20big%20imp.jpg" width="100%"/>
