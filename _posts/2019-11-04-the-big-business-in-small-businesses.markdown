@@ -1,6 +1,8 @@
 ---
 title: The Big Business in Small Businesses
 date: 2019-11-04 15:07:00 Z
+author: Toluwani Segun- Babatunde
+image: "/uploads/small%20biz%20big%204.jpg"
 ---
 
 <img src="/uploads/small%20biz%20big%20imp.jpg" width="100%"/>
