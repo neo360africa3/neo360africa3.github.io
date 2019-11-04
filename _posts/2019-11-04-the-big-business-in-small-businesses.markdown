@@ -6,6 +6,8 @@ image: "/uploads/small%20biz%20big%204.jpg"
 ---
 
 <img src="/uploads/small%20biz%20big%20imp.jpg" width="100%"/>
+
+
 As an entrepreneur, how do you see yourself? Yes, you may be referred to as an SME, “A Small and Medium Enterprise”, but you are more than that. You play a huge role in the nation’s development and that’s some bragging right with your focus cap still on. Do not let your size stop you from making waves in the industry. 
 As an SME, you are a key player in the country’s economic advancement plan. SMEs have been proven to account for over 46% of the global GDP in the last 5 years and account for 96% of the entire business sector in Nigeria. 
 You may be small, but you play a huge role. You support local communities, provide essential services and develop innovative new products. You also contribute a lot to the country’s tax revenue. In fact, **you are the unacknowledged heroes of our economy and you deserve recognition all year long **!(http://https://www.blog.neo360africa.com/the-super-entrepreneur/)
