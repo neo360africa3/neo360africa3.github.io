@@ -13,7 +13,7 @@ tags:
 - entrepreneurship
 - trends
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1572958706/NEO360%20BLOG/charts-on-black-wooden-table-669622_zabulj.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1572958701/NEO360%20BLOG/business-charts-commerce-computer-265087_okvo7m.jpg
 ---
 
 *“The best-run companies are data-driven, and this skill sets businesses apart from their competition.” – Tomasz Tunguz*
