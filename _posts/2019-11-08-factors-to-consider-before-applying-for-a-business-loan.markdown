@@ -14,7 +14,7 @@ image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v15732
 ---
 
 
-We’ve given you the <a href="https://https://www.blog.neo360africa.com/key-factors-to-consider-before-business-expansion/" rel="nofollow" target="_blank">key factors to consider before business expansion</a>, you believe the time is right and your business does need further expansion. You don’t have the funds? Not to worry, we’re here for you. However, to get the desired funding your business requires, here are a few things you need to know before applying for a loan with NEO360.<b/>
+We’ve given you the <a href="https://www.blog.neo360africa.com/key-factors-to-consider-before-business-expansion/" rel="nofollow" target="_blank">key factors to consider before business expansion</a>, you believe the time is right and your business does need further expansion. You don’t have the funds? Not to worry, we’re here for you. However, to get the desired funding your business requires, here are a few things you need to know before applying for a loan with NEO360.<b/>
 
 
 ## Do I qualify for this loan?
@@ -24,7 +24,7 @@ NEO360 Africa focuses on providing business loans to SMEs that seek to expand th
 
 ## What is the purpose of the loan?
 
-A list of loan purposes has been provided to inform business owners with how we can help them grow. Loans are not given to serve personal needs, but business needs only. Check out a list of our loan purposes <a href="https://https://www.blog.neo360africa.com/loan-purposes-we-can-help-with/" rel="nofollow" target="_blank">here.</a>
+A list of loan purposes has been provided to inform business owners with how we can help them grow. Loans are not given to serve personal needs, but business needs only. Check out a list of our loan purposes <a href="https://www.blog.neo360africa.com/loan-purposes-we-can-help-with/" rel="nofollow" target="_blank">here.</a>
 
 
 ## What loan term suits my business better?
