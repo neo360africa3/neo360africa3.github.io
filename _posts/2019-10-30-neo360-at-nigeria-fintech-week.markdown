@@ -9,7 +9,7 @@ tags:
 - economy
 - fintech
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1569591862/Neo360AFRICA/logo_3_w6ajrj.png
+image: https://res.cloudinary.com/neo360africa/image/upload/v1573647061/Neo360AFRICA/fintech23_wkmifc.jpg
 ---
 
 The Nigeria Fintech Week themed “Surviving with Fintech Innovation, What are the Sustaining Factors?” began on the 28th of October 2019 with the Fintech Masterclass for regulators. The opening event took place on the 29th of October 2019 with various speakers and enlightening sessions at the Landmark Event Centre, Victoria Island, Lagos. <br/>
