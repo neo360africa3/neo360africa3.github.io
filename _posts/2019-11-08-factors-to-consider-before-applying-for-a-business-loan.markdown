@@ -10,7 +10,7 @@ tags:
 - questions
 - faqs
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1573215325/NEO360%20BLOG/small_business_loan_ejdhfd.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1573215325/NEO360%20BLOG/small_business_loan_ejdhfd.jpg
 ---
 
 
