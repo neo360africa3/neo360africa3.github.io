@@ -12,7 +12,7 @@ tags:
 - business development
 - entrepreneur
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1573139995/NEO360%20BLOG/handz_lineart_final2-01_uuemtz.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1573638222/NEO360%20BLOG/Business-39_t9n40i.jpg
 ---
 
 Being an entrepreneur requires being proficient and possessing skills that will keep you ahead of your competitors. This will also help in the smooth running of your business.
