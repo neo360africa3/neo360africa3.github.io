@@ -34,5 +34,5 @@ Ethics could refer to moral guidelines or principles that govern one’s behavio
 
 **Following ethical principles in business avoids legal problems and scandals.** A business with proper ethics would not cheat or disobey certain laws to get ahead as the repercussion of such actions could bring about legal damages. Sometimes, it may be difficult to perform ethically, depending on the type of people you are surrounded by, but you should stand out as a business to follow business ethics. 
 
-**
-Working ethically in business opens up limitless opportunities for businesses.** Ensure that you follow all the rules and policies of the country and establish a good reputation.
+
+**Working ethically in business opens up limitless opportunities for businesses.** Ensure that you follow all the rules and policies of the country and establish a good reputation.
