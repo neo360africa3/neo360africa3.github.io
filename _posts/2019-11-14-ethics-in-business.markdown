@@ -17,7 +17,7 @@ tags:
 - loyalty
 - trust
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1573741872/NEO360%20BLOG/Business-Ethics-1200x480_jla174.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1573741884/NEO360%20BLOG/GettyImages-1014419366_emxukl.jpg
 ---
 
 Ethics could refer to moral guidelines or principles that govern one’s behaviour. In business, it is the application of the right values in business behaviour. For an entrepreneur, business ethics are required to govern one’s way of doing business. Here are a few reasons why ethics should be maintained in business.
