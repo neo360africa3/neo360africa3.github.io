@@ -16,7 +16,7 @@ tags:
 - business
 - entrepreneurship
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1573812749/NEO360%20BLOG/kisspng-black-friday-cyber-monday-shopping-thanksgiving-cl-5b322f93d84251.6881326215300156358858_ahd8wh.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1573812740/NEO360%20BLOG/Black-friday_kxsicg.jpg
 ---
 
 Black Friday is a big event for wholesalers, retailers and consumers. As Black Friday approaches, thousands of people are saving up big to engage in this shopping holiday. Some have been saving since the last Black Friday. 
