@@ -16,7 +16,7 @@ tags:
 - business
 - entrepreneurship
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1573812740/NEO360%20BLOG/Black-friday_kxsicg.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1573812749/NEO360%20BLOG/kisspng-black-friday-cyber-monday-shopping-thanksgiving-cl-5b322f93d84251.6881326215300156358858_ahd8wh.jpg
 ---
 
 Black Friday is a big event for wholesalers, retailers and consumers. As Black Friday approaches, thousands of people are saving up big to engage in this shopping holiday. Some have been saving since the last Black Friday. 
@@ -65,4 +65,8 @@ Social media is an efficient marketing tool. Use it to promote sales and create 
 Once Black Friday is over, do make sure you appreciate your customers. Some might not remember you till the next black Friday. To keep your customers loyal, appreciate them and show them how much you care. Remember them after the sales, so they can come back.
 
 
-We hope you have a wonderful Black Friday! Happy shopping!
+We hope you have a wonderful Black Friday! 
+
+<img width="100%" src="https://res.cloudinary.com/neo360africa/image/upload/v1573810783/NEO360%20BLOG/giphy_4_zatdq5.gif" />
+
+Happy shopping!
