@@ -1,8 +1,6 @@
 ---
 title: NEO360Africa Financial Blog.
 timezone: UTC
-talkyard_server_url: https://comments-for-www-blog-neo360africa-com.talkyard.net
-talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
 collections:
   posts:
     title: Posts
@@ -10,6 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+talkyard_server_url: https://comments-for-www-blog-neo360africa-com.talkyard.net
+talkyard_script_url: https://c1.ty-cdn.net/-/talkyard-comments.min.js
 name: Terms
 description: NEO360Africa Financial Blog.
 logo: assets/images/logo.png
