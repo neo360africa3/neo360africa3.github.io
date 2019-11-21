@@ -13,7 +13,6 @@ author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/v1573215325/NEO360%20BLOG/small_business_loan_ejdhfd.jpg
 ---
 
-
 We’ve given you the <a href="https://www.blog.neo360africa.com/key-factors-to-consider-before-business-expansion/" rel="nofollow" target="_blank">key factors to consider before business expansion</a>, you believe the time is right and your business does need further expansion. You don’t have the funds? Not to worry, we’re here for you. However, to get the desired funding your business requires, here are a few things you need to know before applying for a loan with NEO360.<b/>
 
 
