@@ -1,5 +1,5 @@
 ---
-title: Personal Brand Identity
+title: BRANDING; Why it is good for your business
 date: 2019-11-22 09:22:00 Z
 categories:
 - Managing Business
@@ -16,20 +16,27 @@ author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1574169263/NEO360%20BLOG/man-sitting-in-front-of-keyboard-2422278_vjewud.jpg
 ---
 
-As an entrepreneur, you should be able to represent your brand effectively. The truth is, customers easily relate with individuals than brands. According to statistics from the Impact Learning Centre, with the current growth in social media engagements, 77% of consumers are more likely to buy from a company with a CEO that’s active on social media. Sometimes, it’s not just about the brand, but about the person behind the brand. While promoting your brand is a big deal, there are other reasons why you good brand representation is important.
+As an entrepreneur, you should understand that good brand representation is critical to the growth of your business. The truth is it changes how people perceive your product/service. 
 
-
-### Personal branding makes your product unique
-
-As Fenty Beauty is to Rihanna, Kylie Cosmetics is to Kylie Jenner. People purchase these products not necessarily because of the quality or the beauty, but because of the people behind it. These names are the selling points of these products. What is the name behind your brand? In Nigeria, we can associate Mag Diva’s Boutique to Mercy Aigbe, Tiffany Amber to Folake Coker, Jewel by Lisa to Lisa Folawiyo and Elizabeth R to Ibidunni Ighodalo. You may not be a popular celebrity, but ensure that you provide content good enough for your target audience, so when they get to the market and see your product, they’ll select it out of the others because they know the name behind it and can easily relate with the owner.
-
-
-### Personal branding builds credibility
-
-Statistics from the Impact Learning Centre also reveals that 82% of consumers are more likely to trust a company with an active CEO on social media. Sometimes, individuals purchase a product for the first time because of what they’ve heard or seen about it in adverts. Sometimes, because it has been endorsed by a particular celebrity. If you cannot afford to get your products endorsed by celebrities, be your own celebrity. Endorse your own products, toot your own horn. This would make individuals purchase your product because it has been highly recommended and publicised. If they trust you, they will trust your product.
-
-
-*If you really want your business to succeed, you have to put yourself out there. It’s not just about your image, but also your character. If you’re honest, transparent and legit in your dealings and conversations, people would be glad to do business with you and patronise you. Ensure you’re always in a positive light and you will portray a good image for your brand as well.
 
 <br/>
-Luckily, NEO360 offers advisory session, so you would be able to know how to best represent your company as a person.*
+### Good Brand Representation Generates New Customers
+
+
+A good brand will have no trouble drumming up referrals. Good brand representation generally means there is a positive impression of the company amongst consumers, and they are likely to do business with you because of the familiarity and assumed dependability of using a name they can trust. As a business owner, ensure you provide content good enough for your target audience, so your product will always be the preferred option.
+
+
+
+### Good Brand Representation Creates Trust Within the Marketplace
+
+
+A professional appearance and well-strategized branding will help the company build trust with consumers, potential clients and customers. People are more likely to do business with a company that has a polished and professional portrayal. Often, individuals purchase a product based on referrals, advertisements they have seen or heard or because it has been endorsed by a celebrity. As a business owner, you must ensure you can validate the quality of  your product. Good brand representation gives the impression of being industry experts and makes the public feel as though they can trust your company, the products and services it offers and the way it handles its business.
+
+### Good Brand Representation Increases Business Value
+Brand representation is important when trying to generate future business and investment opportunities. It gives the company more leverage in the industry. This makes it a more appealing investment opportunity because of its firmly established place in the marketplace.
+<br/>
+
+When a brand is well represented, it can carry an amazing presence in your market. This can set you miles ahead of your competition, simply because you're represented well by your branding
+
+
+
