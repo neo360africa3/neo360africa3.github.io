@@ -9,7 +9,7 @@ tags:
 - branding
 author: tolu
 image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1574169263/NEO360%20BLOG/man-sitting-in-front-of-keyboard-2422278_vjewud.jpg
-layout: archive
+layout: blog
 ---
 
 As an entrepreneur, you should be able to represent your brand effectively. The truth is, customers easily relate with individuals than brands. According to statistics from the Impact Learning Centre, with the current growth in social media engagements, 77% of consumers are more likely to buy from a company with a CEO that’s active on social media. Sometimes, it’s not just about the brand, but about the person behind the brand. While promoting your brand is a big deal, there are other reasons why you good brand representation is important.
