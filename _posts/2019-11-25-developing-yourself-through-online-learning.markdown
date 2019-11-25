@@ -11,7 +11,7 @@ tags:
 - lifestyle
 - development
 author: tolu
-image: https://res.cloudinary.com/neo360africa/image/upload/v1574691985/NEO360%20BLOG/teach-english-online_ula8gi.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1574691986/NEO360%20BLOG/HFU6ZbFOB0eZwADbCinuOQ_store_header_image_dyn07s.jpg
 ---
 
 In order for you to succeed and do better, personal development and self-improvement is needed. One of the best ways to improve on yourself is by taking online courses, especially if you’re one who doesn’t have the time to attend physical classes in a lecture room. With business and family responsibilities, the most proper solution is to enrol for courses online. They benefit you in the long run and you stand to gain more than you would in a physical class. These benefits include:
