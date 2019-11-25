@@ -12,7 +12,7 @@ tags:
 - twitter
 - instagram
 - linkedin
-author: tolu
+author: bola
 image: https://res.cloudinary.com/neo360africa/image/upload/c_scale,h_500/v1574169263/NEO360%20BLOG/man-sitting-in-front-of-keyboard-2422278_vjewud.jpg
 ---
 
