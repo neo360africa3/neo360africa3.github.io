@@ -13,7 +13,7 @@ tags:
 - instagram
 - linkedin
 author: bola
-image: https://res.cloudinary.com/neo360africa/image/upload/v1574670189/NEO360%20BLOG/Studio1Design-Why-Branding-Matters-Blog-Image-1-1_sp0kkn.jpg
+image: https://res.cloudinary.com/neo360africa/image/upload/v1574670351/NEO360%20BLOG/M%C3%A1sQueDigital-_S%C3%ADguelos-Pasos-b%C3%A1sicos-para-crear-una-exitosa-estrategia-de-branding-FOTO_flbmre.jpg
 ---
 
 As an entrepreneur, you should understand that good brand representation is critical to the growth of your business. The truth is it changes how people perceive your product/service. 
