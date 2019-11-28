@@ -1,9 +1,8 @@
 ---
 title: Good Debt vs Bad Debt
 date: 2019-11-28 11:08:00 Z
-Key: 
-Author: Bola
-Field name: 
+author: Bola
+image: 
 ---
 
 GOOD DEBT VS. BAD DEBT
