@@ -1,7 +1,7 @@
 ---
 title: Good Debt vs Bad Debt
 date: 2019-11-28 11:08:00 Z
-author: Bola
+author: bola
 image: https://res.cloudinary.com/neo360africa/image/upload/v1574939046/good_debt_vs_bad_debt_5_bewbtf.jpg
 ---
 
