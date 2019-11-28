@@ -3,7 +3,7 @@ title: Good Debt vs Bad Debt
 date: 2019-11-28 11:08:00 Z
 Key: 
 Author: Bola
-Field name: https://res.cloudinary.com/neo360africa/image/upload/v1574939046/good_debt_vs_bad_debt_5_bewbtf.jpg
+Field name: 
 ---
 
 GOOD DEBT VS. BAD DEBT
@@ -29,5 +29,4 @@ Other forms of bad debt would be taking out a loan to buy clothes, electronics o
 
 Are you thinking of acquiring a loan? Make sure you weigh the pros and cons. What benefit it would serve your business? What is the accruable interest rate on the loan and the specified repayment plan? 
 
-When you have successfully answered this questions, contact us and we will help finance the next great feat of your business (https://res.cloudinary.com/neo360africa/image/upload/v1574939046/good_debt_vs_bad_debt_5_bewbtf.jpg)
-
+When you have successfully answered this questions, contact us and we will help finance the next great feat of your business ![good debt vs bad debt 2.jpg](/uploads/good%20debt%20vs%20bad%20debt%202.jpg)
