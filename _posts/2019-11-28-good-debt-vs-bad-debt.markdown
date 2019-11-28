@@ -5,7 +5,7 @@ author: Bola
 image: https://res.cloudinary.com/neo360africa/image/upload/v1574939046/good_debt_vs_bad_debt_3_frl85x.png
 ---
 
-GOOD DEBT VS. BAD DEBT
+
 We’ve learnt here that borrowing is not always a bad idea. Why? Sometimes businesses need loan to be able to achieve your desired business goal. As justifiable as this may sound, there is another end of the spectrum that involves taking loans to finance depreciating assets usually referred to as bad debt. Determining whether or not a debt is good or bad involves a deep analysis of the specific reason for which the loan is taken. 
 
 GOOD DEBTS
