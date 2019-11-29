@@ -10,7 +10,7 @@ image: 'https://res.cloudinary.com/neo360africa/image/upload/v1574939046/good_de
 
 We’ve learnt here that borrowing is not always a bad idea. Why? Sometimes businesses need loans to be able to achieve their desired business goal. As justifiable as this may sound, there is another end of the spectrum that involves taking loans to finance depreciating assets usually referred to as bad debt. Determining whether or not a debt is good or bad involves a deep analysis of the specific situation and reason for which the loan is to be taken. 
 
-**GOOD DEBTS**
+## **GOOD DEBTS**
 
 “No debt is a good debt,” they say. However, if taking a loan helps to build or grow your business, generate more income and increase your net worth, it is a good debt. In simple terms, a good debt is one that is a sensible investment in your financial future, leaves you better off in the long-term and does not have a negative impact on your overall financial position.
 
@@ -22,7 +22,7 @@ The purchase of a new equipment. Here is another example of good debt. Maybe you
 
 Other examples of good debts in business include the purchase of inventory, the employment of more staff, the renovation of premises and other value adding purposes. Any debt taken that is not value oriented is a bad debt.
 
-**BAD DEBTS**
+### **BAD DEBTS**
 
 While good debt has the potential to increase a person’s net worth, its generally considered to be bad debt if you are borrowing to purchase depreciating assets. In other words, if it doesn’t add value or generate income, you shouldn’t go into debt to acquire it. Businesses should carefully evaluate their reasons for borrowing before dabbling into it.
 
