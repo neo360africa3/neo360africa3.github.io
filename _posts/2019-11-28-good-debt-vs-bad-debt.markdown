@@ -32,4 +32,4 @@ Other forms of bad debt would be taking out a loan to buy clothes, electronics o
 
 Are you thinking of acquiring a loan? Make sure you weigh the pros and cons. What benefit it would serve your business? What is the accruable interest rate on the loan and the specified repayment plan? 
 
-When you have successfully answered this questions, contact us and we will help finance the next great feat in your business. 
+**When you have successfully answered this questions, contact us and we will help finance the next great feat in your business. **
